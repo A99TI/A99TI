@@ -84,7 +84,7 @@ Right now, I’m on a journey to become a well-rounded software engineer by buil
 I’m always open to collaboration, interesting problems, and new opportunities.
 
 - GitHub: follow along with what I’m building  
-- LinkedIn / Email / Portfolio — coming soon  
+- LinkedIn: Feel free to connect with me!
 
 </details>
 
